@@ -4,6 +4,13 @@
 # Log file
 *.log
 
+# Settings
+*.gitignore*
+
+# Text files
+*.txt
+*.pdf
+
 # BlueJ files
 *.ctxt
 
