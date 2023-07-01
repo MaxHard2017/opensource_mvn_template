@@ -6,7 +6,7 @@ This is tempalte for opensource java projects based on Maven
 - [Security issues](docs/SECURITY.md) - to be detaild later
 - [How to get support](docs/SUPPORT.md)
 
-A description of what the project is for
+<!--- A description of what the project is for -->
 <!--- что делает проект; -->
 <!--- почему проект полезен; -->
 <!--- как пользователи могут приступить к работе с проектом; -->
